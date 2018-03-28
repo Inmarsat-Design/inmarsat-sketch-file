@@ -13,3 +13,7 @@ If you notice something wrong or want to contribute a new design, [create an iss
 ## Internal updates
 
 Before a new release is published here, we must make sure the [Design System](https://design.inmarsat.com/) is updated to reflect any new component or style changes within it.
+
+## Licensing
+
+[MIT License](/LICENSE)
