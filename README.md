@@ -1,6 +1,6 @@
 # Inmarsat Design System - Sketch File
 
-All you should need to get started desiging web apps based on the [Inmarsat Design System](https://design.inmarsat.com/).
+All you should need to get started designing web apps based on the [Inmarsat Design System](https://design.inmarsat.com/).
 
 ## Getting started
 
